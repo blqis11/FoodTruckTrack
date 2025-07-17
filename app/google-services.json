@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "723642806992",
+    "project_id": "foodtrucktrack-fac07",
+    "storage_bucket": "foodtrucktrack-fac07.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723642806992:android:0ee84af65e0677788aa4d5",
+        "android_client_info": {
+          "package_name": "com.example.foodtrucktrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo6jTOy9CG3rqvLaoGLpx19cttOsbzQwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
