@@ -1,68 +1,45 @@
-🍔 FoodTruckTrack
-FoodTruckTrack is a mobile-ready app that brings food trucks to your fingertips! It helps users discover nearby food trucks, view their menus and schedules, get directions, and leave feedback—all in one place.
+🚚 FoodTruckTrack
+FoodTruckTrack is a full-stack application that allows users to discover, locate, and interact with food trucks in real time. The app helps customers find food trucks nearby, explore menus, check schedules, and even rate their experiences. It's designed to support local food truck businesses while improving convenience for users.
 
-🚀 Features
-📍 Interactive Map Display
-See food trucks plotted on a map using GPS/geolocation.
+📝 Project Description
+FoodTruckTrack aims to bridge the gap between food trucks and their customers by providing an easy-to-use platform that offers:
 
-🔎 Search & Filter
-Find food trucks by name, cuisine type, or availability.
+Real-time tracking of food truck locations
 
-📅 Schedule & Status
-View operating hours, current locations, and upcoming stops.
+Detailed information on each truck, including menu items and hours
 
-📋 Menus with Media
-Browse menu items complete with descriptions, prices, and photos.
+User accounts to save favorites and leave reviews
 
-⭐ Reviews & Favorites
-Rate food trucks, leave reviews, and bookmark your favorites.
+Mobile-responsive design for use on the go
 
-📱 Responsive Design
-Adapts for both desktop browsers and mobile devices.
+Whether you’re craving tacos or looking for a new lunch spot, this app makes it simple to find and follow food trucks in your area.
 
-🧭 Tech Stack
-Layer	Tech Options
-Frontend	React / React Native / Vue.js
-Backend	Node.js + Express / Firebase Functions
-Database	MongoDB / Firebase Firestore / PostgreSQL
-Maps & Geo	Google Maps / Mapbox / Geolocation API
-Auth	Firebase Auth / JSON Web Tokens
+🧰 Built With
+Frontend: React / Tailwind CSS
 
-🧪 Usage
-Open the frontend at http://localhost:3000
+Backend: Node.js / Express
 
-Allow location access to focus on nearby trucks
+Database: MongoDB (via Mongoose)
 
-Browse trucks, check menus, view reviews
+Authentication: JWT-based login system
 
-Log in to leave a review or save favorites
+APIs Used: Google Maps API for location display
 
-🔧 Configuration
-Open frontend/.env and backend/.env to set your:
+Deployment: (Optional) Hosted on [Render / Vercel / Heroku]
 
-API URLs (e.g., REACT_APP_API_URL=http://localhost:8000/api)
+🔍 Features
+🗺️ Map-based truck location view
 
-Authentication secrets, API keys, etc.
+📅 View truck availability and schedule
 
-✅ Contribution
-Contributions are welcome! To get involved:
+📋 Browse food truck menus with images and prices
 
-Fork the repository
+⭐ Rate and review food trucks
 
-Create a feature branch (git checkout -b feature/my-awesome)
+🔐 Secure user login and account management
 
-Commit your changes (git commit -m "Add feature")
+❤️ Save favorite trucks for quick access
 
-Push to your branch (git push origin feature/my-awesome)
+📄 License
+This project is licensed under the MIT License.
 
-Open a Pull Request 🎉
-
-📝 License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-🤝 Credits & Acknowledgments
-Inspired by local food truck communities and user demand
-
-Map and geolocation powered by Google Maps / Mapbox
-
-Icons and UI elements from Font Awesome & Material Design
